@@ -1,1 +1,3 @@
-# programming-C
+＃編程C
+我想認真學習c語言
+所以做了這篇blog
