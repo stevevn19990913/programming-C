@@ -1,0 +1,1 @@
+https://blog.csdn.net/qq_42487738/article/details/104144201    //解決vs中scanf被忽略的問題
